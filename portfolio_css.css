@@ -1,0 +1,45 @@
+
+h1{
+    color : rgb(18, 38, 85);
+    font-family : "Times New Roman"
+    font-style : normal;
+	font-weight : 700;
+    font-size : 50px}
+
+p.first{
+	color : rgb(0, 102, 153) ;
+	font-family : courier, monospace;
+	font-style :  normal;
+	font-weight :400 ;
+    font-size : 20px }
+p{ 
+    color : rgb(90, 63, 146);
+    font-style : italic;
+    font-weight : 300;
+    font-size : 20px }
+p.obama {
+ 	color : rgb(0, 77, 40);
+ 	font-style : italic;
+    font-weight : 100; 	
+    font-size : 20px}
+#image{
+    width: 500px;
+    height: 300px;
+}
+
+body {
+	background-color: #ccffdd  }
+    
+/*P.blocktext {
+        margin-left : auto;
+        margin-right : auto;
+        width : 6em}
+IMG.displayed{
+    display : block;
+    margin-left : auto;
+    margin-right : auto}*/
+    
+/*IMG class="displayed" src="paddle_ball_screenshot.jpg"*/
+
+/*img {
+    align-items: center;}*/

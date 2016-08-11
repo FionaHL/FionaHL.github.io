@@ -1,0 +1,14 @@
+<!--This is CSS for About_me-->
+
+
+
+body {
+	background-color: #34CEF2  }
+
+#image
+p{
+	color : rgb(39, 46, 97) ;
+	font-family : courier, monospace;
+	font-style :  normal;
+	font-weight :400 ;
+    font-size : 40px }
